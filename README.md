@@ -17,6 +17,11 @@ And then to give arguments:
 
 ``` ./main [Entries_of_Shared_Memory] [Peers] [RatioRW] ```
 
+### Clean
+
+To clean,simple type ``` make clean ```
+
+
 ### Further informations
 
 
